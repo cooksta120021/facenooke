@@ -1,0 +1,8 @@
+web: gunicorn SocialNetwork.wsgi
+
+
+
+
+
+
+
